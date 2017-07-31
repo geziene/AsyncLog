@@ -1,0 +1,7 @@
+E:\logtest_solution\UTest\bin\Debug\UTest.dll
+E:\logtest_solution\UTest\bin\Debug\UTest.pdb
+E:\logtest_solution\UTest\bin\Debug\LogTest.dll
+E:\logtest_solution\UTest\bin\Debug\LogTest.pdb
+E:\logtest_solution\UTest\obj\Debug\UTest.csprojResolveAssemblyReference.cache
+E:\logtest_solution\UTest\obj\Debug\UTest.dll
+E:\logtest_solution\UTest\obj\Debug\UTest.pdb

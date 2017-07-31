@@ -1,0 +1,8 @@
+E:\logtest_solution\Application\bin\Debug\LogUsers.exe.config
+E:\logtest_solution\Application\bin\Debug\LogUsers.exe
+E:\logtest_solution\Application\bin\Debug\LogUsers.pdb
+E:\logtest_solution\Application\bin\Debug\LogTest.dll
+E:\logtest_solution\Application\bin\Debug\LogTest.pdb
+E:\logtest_solution\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+E:\logtest_solution\Application\obj\Debug\LogUsers.exe
+E:\logtest_solution\Application\obj\Debug\LogUsers.pdb

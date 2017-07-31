@@ -1,0 +1,5 @@
+E:\logtest_solution\LogTest\bin\Debug\LogTest.dll
+E:\logtest_solution\LogTest\bin\Debug\LogTest.pdb
+E:\logtest_solution\LogTest\obj\Debug\LogTest.dll
+E:\logtest_solution\LogTest\obj\Debug\LogTest.pdb
+E:\logtest_solution\LogTest\obj\Debug\LogComponent.csprojResolveAssemblyReference.cache
